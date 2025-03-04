@@ -37,7 +37,7 @@ Users should be able to:
 
 [Live Demo](https://mendezpvi.github.io/fem-blog-preview-card/) 👈
 
-<!-- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/results-summary-component-MuAbYHarLa) 👈 -->
+[Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-mm5a4ckuVq) 👈
 
 [Frontend Mentor Project Showcase](https://github.com/mendezpvi/frontend-mentor-showcase) 👈
 
